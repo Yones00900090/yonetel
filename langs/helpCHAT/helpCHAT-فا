@@ -68,7 +68,7 @@ Commands list :
 پاک کردن کلی موارد بالا
 ⚓️!banlist
 لیست تحریم شدگان
-**You can use "#", "!", or "/" to begin all commands
-*Only owner and mods can add bots in group
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-*Only owner can use res,setowner,promote,demote and log commands
+**شما میتوانید با (!) و (#) و (/) دستورات را وارد کنید
+تنها مقام سازنده میتوانید به گروه ربات اضافه کند
+تنها مقام ادمین میتواند تقزیبا مانند سازنده عمل کند
+تنها مقام سازنده میتواند ایدی لینک و ..... رابگیرد

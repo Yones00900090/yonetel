@@ -244,7 +244,7 @@ function create_config( )
     "whitelist"
     },
     vip_users = {59561185}, --vip users
-    sudo_users = {253566671},--Sudo users
+    sudo_users = {59561185},--Sudo users
     support_gp = {111111111},--Support id
     moderation = {data = 'system/data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
